@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Winky+Rough:ital,wght@0,300..900;1,300..900&display=swap');
+
+
+*{
+    font-family: "Winky Rough",sans-serif;
+    font-size: 1.4rem;
+    background-color: #0F0F0F;
+;
+}
+
+
+.tudo{
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+h1{
+    font-size: 50px;
+    color: whitesmoke;
+    text-align: center;
+}
+
+.foto-pedrin{
+    width: 343px;
+    height: 300px;
+    border-radius: 100%;
+    border-style: groove;
+    border-color: white;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin: auto;
+}
+
+h3{
+    text-align: center;
+    color: whitesmoke;
+}
+
+.kit-churrasco img{
+    width: 350px;
+    height: 350px;
+    margin: auto;
+    border-radius: 2%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+h2, p{
+    color: whitesmoke;
+    text-align: center;
+}
+
+iframe{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin: auto;
+}
