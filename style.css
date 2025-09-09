@@ -20,7 +20,7 @@ h1{
     text-align: center;
 }
 
-.foto-pedrin{
+.foto-crias{
     width: 343px;
     height: 360px;
     border-radius: 100%;
@@ -30,6 +30,7 @@ h1{
     justify-content: center;
     display: flex;
     margin: auto;
+    object-fit: cover;
 }
 
 h3{
